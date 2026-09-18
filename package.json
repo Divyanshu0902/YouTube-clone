@@ -1,0 +1,25 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "youtube backend project",
+  "keywords": [
+    "backend",
+    "node",
+    "youtube"
+  ],
+  "homepage": "https://github.com/Divyanshu0902/YouTube-clone#readme",
+  "bugs": {
+    "url": "https://github.com/Divyanshu0902/YouTube-clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyanshu0902/YouTube-clone.git"
+  },
+  "license": "ISC",
+  "author": "Divyanshu Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
