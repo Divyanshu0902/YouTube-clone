@@ -1,3 +1,0 @@
-# Topics Learned
-*prettier
-*iify
